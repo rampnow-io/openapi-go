@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
+	"github.com/rampnow-io/openapi-go/openapi3"
 	"github.com/stretchr/testify/require"
 	"github.com/swaggest/assertjson"
-	"github.com/swaggest/openapi-go/openapi3"
 )
 
 func TestNewReflector_uploads(t *testing.T) {

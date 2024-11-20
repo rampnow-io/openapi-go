@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/rampnow-io/openapi-go"
 	"github.com/stretchr/testify/assert"
-	"github.com/swaggest/openapi-go"
 )
 
 func TestContentUnit_options(t *testing.T) {

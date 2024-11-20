@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/rampnow-io/openapi-go"
+	"github.com/rampnow-io/openapi-go/internal"
 	"github.com/swaggest/jsonschema-go"
-	"github.com/swaggest/openapi-go"
-	"github.com/swaggest/openapi-go/internal"
 )
 
 // WalkResponseJSONSchemas provides JSON schemas for response structure.

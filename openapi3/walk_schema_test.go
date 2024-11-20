@@ -5,12 +5,12 @@ import (
 	"strconv"
 	"testing"
 
+	"github.com/rampnow-io/openapi-go"
+	"github.com/rampnow-io/openapi-go/openapi3"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/swaggest/assertjson"
 	jsonschema "github.com/swaggest/jsonschema-go"
-	"github.com/swaggest/openapi-go"
-	"github.com/swaggest/openapi-go/openapi3"
 )
 
 func TestReflector_WalkRequestJSONSchemas(t *testing.T) {

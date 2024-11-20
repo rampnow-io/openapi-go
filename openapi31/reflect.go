@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/rampnow-io/openapi-go"
+	"github.com/rampnow-io/openapi-go/internal"
 	"github.com/swaggest/jsonschema-go"
-	"github.com/swaggest/openapi-go"
-	"github.com/swaggest/openapi-go/internal"
 	"github.com/swaggest/refl"
 )
 

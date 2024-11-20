@@ -1,7 +1,7 @@
 // Package internal keeps reusable internal code.
 package internal
 
-import "github.com/swaggest/openapi-go"
+import "github.com/rampnow-io/openapi-go"
 
 // NewOperationContext creates OperationContext.
 func NewOperationContext(method, pathPattern string) *OperationContext {

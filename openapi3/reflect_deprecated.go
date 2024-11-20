@@ -1,8 +1,8 @@
 package openapi3
 
 import (
+	"github.com/rampnow-io/openapi-go"
 	"github.com/swaggest/jsonschema-go"
-	"github.com/swaggest/openapi-go"
 )
 
 // SetupRequest sets up operation parameters.

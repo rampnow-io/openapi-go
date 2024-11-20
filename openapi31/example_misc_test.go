@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"reflect"
 
+	"github.com/rampnow-io/openapi-go/openapi31"
 	"github.com/swaggest/assertjson"
 	"github.com/swaggest/jsonschema-go"
-	"github.com/swaggest/openapi-go/openapi31"
 )
 
 func ExampleReflector_options() {

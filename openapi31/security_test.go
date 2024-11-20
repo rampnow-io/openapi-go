@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/rampnow-io/openapi-go"
+	"github.com/rampnow-io/openapi-go/openapi31"
 	"github.com/stretchr/testify/require"
 	"github.com/swaggest/assertjson"
-	"github.com/swaggest/openapi-go"
-	"github.com/swaggest/openapi-go/openapi31"
 )
 
 func TestSpec_SetHTTPBasicSecurity(t *testing.T) {

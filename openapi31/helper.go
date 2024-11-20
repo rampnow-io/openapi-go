@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/swaggest/openapi-go"
+	"github.com/rampnow-io/openapi-go"
 )
 
 // ToParameterOrRef exposes Parameter in general form.

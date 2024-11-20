@@ -1,4 +1,4 @@
-module github.com/swaggest/openapi-go
+module github.com/rampnow-io/openapi-go
 
 go 1.18
 

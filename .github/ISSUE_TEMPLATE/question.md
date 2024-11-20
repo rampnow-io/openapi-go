@@ -1,10 +1,9 @@
 ---
 name: Question
 about: Any question about features or usage
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
-Please use discussions https://github.com/swaggest/openapi-go/discussions/categories/q-a to make your question more discoverable by other folks.
+Please use discussions https://github.com/rampnow-io/openapi-go/discussions/categories/q-a to make your question more discoverable by other folks.

@@ -3,8 +3,8 @@ package openapi31_test
 import (
 	"testing"
 
+	"github.com/rampnow-io/openapi-go/openapi31"
 	"github.com/stretchr/testify/require"
-	"github.com/swaggest/openapi-go/openapi31"
 )
 
 func TestSpec_MarshalYAML(t *testing.T) {

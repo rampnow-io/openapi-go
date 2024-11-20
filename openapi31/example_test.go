@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/swaggest/openapi-go"
-	"github.com/swaggest/openapi-go/openapi31"
+	"github.com/rampnow-io/openapi-go"
+	"github.com/rampnow-io/openapi-go/openapi31"
 )
 
 func handleError(err error) {
